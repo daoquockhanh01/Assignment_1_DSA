@@ -1,6 +1,7 @@
 ﻿#include "SymbolTable.h"
 
 void SymbolTable::run(string filename) {
+    cout << "Hello Bitch\n";
     ifstream ip;
     ip.open(filename, ios::in);
     while (!ip.eof()) {
