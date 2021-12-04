@@ -2,6 +2,7 @@
 
 void SymbolTable::run(string filename) {
     cout << "Hello Bitch\n";
+    cout << "This is Assignment 1 - DSA, used Linked List\n";
     ifstream ip;
     ip.open(filename, ios::in);
     while (!ip.eof()) {
