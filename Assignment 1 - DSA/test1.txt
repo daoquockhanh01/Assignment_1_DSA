@@ -1,0 +1,64 @@
+﻿INSERT qcd number
+INSERT f string
+RPRINT
+INSERT eL string
+INSERT gF string
+INSERT k string
+ASSIGN eL '1'
+PRINT
+PRINT
+BEGIN
+END
+INSERT eax number
+ASSIGN eax qcd
+PRINT
+INSERT oQ1 string
+BEGIN
+RPRINT
+INSERT jJCL string
+INSERT kzL number
+INSERT aD string
+INSERT pEQqn string
+INSERT d9Ky string
+INSERT jV7 string
+LOOKUP eax
+INSERT thwjm string
+INSERT nku6BU string
+INSERT fa_4 string
+LOOKUP jJCL
+INSERT rpIC number
+PRINT
+ASSIGN eax 1052
+INSERT wDgHa string
+BEGIN
+INSERT xVlb6B number
+INSERT ydtnr number
+INSERT cf4lHS string
+INSERT r number
+ASSIGN jJCL 'E'
+LOOKUP ydtnr
+INSERT i_msbR string
+INSERT yV4 number
+INSERT q1 string
+INSERT p number
+BEGIN
+INSERT j number
+INSERT yrN8T number
+INSERT hPh number
+LOOKUP i_msbR
+INSERT kVZ0TS string
+INSERT v96Az number
+INSERT sKzKac number
+LOOKUP f
+INSERT ni string
+RPRINT
+BEGIN
+INSERT y string
+l_szHG lE67v
+INSERT gItY string
+PRINT
+RPRINT
+INSERT xhJ34 number
+RPRINT
+INSERT r string
+INSERT zC1M14 string
